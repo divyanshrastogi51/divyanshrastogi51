@@ -1,16 +1,24 @@
 ### Hi there 👋
+## About
+Hi 😄, Myself Divyansh Rastogi, I'm a freshman at LNMIIT pursuing BTech in Communication and Computer science. I like to build amazing stuff. Right now I'm working on Machine learning and Deep learning. I know that I have so much to learn but I’m a hard worker, a team player, and excited to see what projects could benefit from my skill set.
 
-<!--
-**divyanshrastogi51/divyanshrastogi51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Place
+Jaipur, Rajasthan
 
-Here are some ideas to get you started:
+## Skills
+Working on
+ - Machine Learning
+ - Deep learning
+ - Data Structures
+ - Competitive Programming
+ - Basics of WebD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project I'm most proud of
+Andrew Ng's Autonomous driving Car detection.
+My own- My Website & Word game
+
+## Find me on 
+[LinkedIn](https://www.linkedin.com/in/divyansh-rastogi-10815a99/)
+[Github](https://github.com/divyanshrastogi51)
+[MyWebsite](https://divyanshrastogi51.github.io/)
+
