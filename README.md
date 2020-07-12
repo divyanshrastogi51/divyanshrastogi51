@@ -1,3 +1,4 @@
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ### Hi there 👋
 ## About
 Hi 😄, Myself Divyansh Rastogi, I'm a freshman at LNMIIT pursuing BTech in Communication and Computer science. I like to build amazing stuff. Right now I'm working on Machine learning and Deep learning. I know that I have so much to learn but I’m a hard worker, a team player, and excited to see what projects could benefit from my skill set.
