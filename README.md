@@ -1,7 +1,7 @@
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ### Hi there 👋
 ## About
-Hi 😄, Myself Divyansh Rastogi, I'm a Second year student at LNMIIT pursuing BTech in Communication and Computer science. I like to build amazing stuff. I know that I have so much to learn but I’m a hard worker, a team player, and excited to see what projects could benefit from my skill set.
+Hi 😄, I'm Divyansh Rastogi,a Second year student at LNMIIT pursuing BTech in Communication and Computer science. I like to build amazing stuff. I know that I have so much to learn but I’m a hard worker, a team player, and excited to see what projects could benefit from my skill set.
 
 ## Skills
 Working on 
