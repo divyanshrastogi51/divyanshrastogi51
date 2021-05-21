@@ -1,18 +1,15 @@
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-### Hi there 👋
-## About
-Hi 😄, I'm Divyansh Rastogi,a Second year student at LNMIIT pursuing BTech in Communication and Computer science. I like to build amazing stuff. I know that I have so much to learn but I’m a hard worker, a team player, and excited to see what projects could benefit from my skill set.
+## Bonjour 👋
+Hi 😄, I'm Divyansh Rastogi, a second year student at LNMIIT pursuing BTech in Communication and Computer science. I like to build amazing stuff. I'm a passionate developer who specializes in JavaScript technologies. Experienced, hard-working, and self-disciplined. Always ready to meet exciting opportunities.
 
 ## Skills
-Working on 
- - Web Development (HTML,CSS,Bootstrap,Javascript & UI Design) 
+Specializing 
+ - Full Stack Development (HTML, CSS, Javascript, Nodejs, Expressjs, Reactjs & UI Design) 
  - Data Structures & Algorithms
- - Competitive Programming(C++ & Pyhton)
- - Applied Machine Learning & Deep learning
+ - Competitive Programming(C++)
 
 ## Find me on 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/divyansh-rastogi-10815a99/)
-
-For more information Visit
+<!-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/divyansh-rastogi-10815a99/) -->
 **[My-Website](https://divyansh-rastogi.netlify.app/)**
+
 
